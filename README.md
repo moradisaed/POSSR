@@ -39,7 +39,7 @@ We conducted extensive experiments using synthetically generated data. The propo
 
 ### Qualitative Comparison
 
-![Figure 5: Qualitative reconstruction vs. baseline](fig5.png)
+![Qualitative reconstruction vs. baseline](https://github.com/moradisaed/POSSR/blob/main/recResults.png)
 
 ### Quantitative Evaluation
 
