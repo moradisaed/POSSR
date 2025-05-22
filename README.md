@@ -26,6 +26,7 @@ We formulate the inverse problem of specular surface reconstruction as a local o
 The reconstruction proceeds **patch-wise** to maintain computational feasibility and robustness.
 
 ![Surface geometry and reflection overview](https://github.com/moradisaed/POSSR/blob/main/ProblemFormulation.png)
+
 *Figure 1: Surface geometry and reflection overview.*
 ---
 
