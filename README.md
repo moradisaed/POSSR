@@ -43,6 +43,9 @@ We conducted extensive experiments using synthetically generated data. The propo
 
 ### Quantitative Evaluation
 
+![Robustness to 2D noise](https://github.com/moradisaed/POSSR/blob/main/joint2D.png)
+![Robustness to 3D noise](https://github.com/moradisaed/POSSR/blob/main/joint3D.png)
+![Figure 6: Robustness to noise](fig6.png)
 ![Figure 6: Robustness to noise](fig6.png)
 
 ---
