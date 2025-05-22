@@ -42,6 +42,9 @@ We conducted extensive experiments using synthetically generated data. The propo
 
 ![Qualitative reconstruction vs. baseline](https://github.com/moradisaed/POSSR/blob/main/recResults.png)
 
+*Figure 2: Qualitative comparison of surface reconstruction results for noise-free (ideal) reflection correspondences.*
+
+
 ### Quantitative Evaluation
 
 ![Robustness to 2D noise](https://github.com/moradisaed/POSSR/blob/main/joint2D.png)
