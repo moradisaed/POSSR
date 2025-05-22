@@ -5,8 +5,8 @@ This repository provides the implementation and dataset for the paper:
 
 > **Patch-Based Optimization for Noise-Robust Reconstruction of Specular Surfaces**  
 > *Saed Moradi, M. Hadi Sepanj, Amir Nazemi, Claire Preston, Anthony M. D. Lee, and Paul Fieguth*  
-> IEEE Access, 2025  
-> [📄 PDF](https://ieeexplore.ieee.org/document/PLACEHOLDER) | [📊 Dataset](https://github.com/moradisaed/POSSR)
+>  2025  
+> [📄 PDF]() | [📊 Data](https://github.com/moradisaed/POSSR/blob/main/reconstruction/threePlaneData4X.mat)
 
 ---
 
@@ -25,7 +25,7 @@ We formulate the inverse problem of specular surface reconstruction as a local o
 
 The reconstruction proceeds **patch-wise** to maintain computational feasibility and robustness.
 
-![Figure 1: Surface geometry and reflection overview](fig1.png)
+![Surface geometry and reflection overview](https://github.com/moradisaed/POSSR/blob/main/ProblemFormulation.pdf)
 
 ---
 
