@@ -48,9 +48,21 @@ We conducted extensive experiments using synthetically generated data. The propo
 ### Quantitative Evaluation
 
 ![Robustness to 2D noise](https://github.com/moradisaed/POSSR/blob/main/joint2D.png)
+
+**Figure 3: Sensitivity of the reconstructed surface to the noise added to the points on the image plane.**
+
 ![Robustness to 3D noise](https://github.com/moradisaed/POSSR/blob/main/joint3D.png)
-![Figure 6: Robustness to noise](fig6.png)
-![Figure 6: Robustness to noise](fig6.png)
+
+**Figure 4: Sensitivity of the reconstructed surface to the noise added to the points on the pattern plane.**
+
+![Figure 5: Robustness to High noise](highSigmapatternPlane.png)
+
+**Figure 5: Surface reconstruction results of our method in extremely noisy scenarios.**
+
+![Figure 6: Robustness to starting point](startingPoint.png)
+
+**Figure 6: ensitivity of the reconstructed surface to ab erroneous starting point.**
+
 
 ---
 
