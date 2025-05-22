@@ -69,9 +69,8 @@ We conducted extensive experiments using synthetically generated data. The propo
 ## 📂 Repository Structure
 
 ```bash
-├── data/                 # Synthetic datasets
-├── src/                  # Main MATLAB source code
-├── results/              # Reconstructed surfaces and logs
+├── dataGeneration/                 # A pipeline to generate reflection point correspondences
+├── reconstruction/                 # Main MATLAB source code for reconstruction
 ├── README.md             # This file
 ```
 
@@ -85,7 +84,7 @@ If you find this repository useful in your research, please cite:
 @article{moradi2025poss,
   title     = {Patch-Based Optimization for Noise-Robust Reconstruction of Specular Surfaces},
   author    = {Moradi, Saed and Sepanj, M. Hadi and Nazemi, Amir and Preston, Claire and Lee, Anthony M. D. and Fieguth, Paul},
-  journal   = {IEEE Access},
+  journal   = {},
   year      = {2025}
 }
 ```
