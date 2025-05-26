@@ -71,7 +71,7 @@ We conducted extensive experiments using synthetically generated data. The propo
 ```bash
 ├── dataGeneration/                 # A pipeline to generate reflection point correspondences
 ├── reconstruction/                 # Main MATLAB source code for reconstruction
-├── README.md             # This file
+├── README.md                       # This file
 ```
 
 ---
