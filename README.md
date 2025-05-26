@@ -61,7 +61,7 @@ We conducted extensive experiments using synthetically generated data. The propo
 
 ![Figure 6: Robustness to starting point](startingPoint.png)
 
-**Figure 6: ensitivity of the reconstructed surface to ab erroneous starting point.**
+**Figure 6: ensitivity of the reconstructed surface to an erroneous starting point.**
 
 
 ---
