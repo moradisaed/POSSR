@@ -1,7 +1,7 @@
 # POSSR
 # Patch-Based Optimization for Noise-Robust Reconstruction of Specular Surfaces
 
-This repository provides the implementation and dataset for the paper:
+This repository provides the implementation and data for the paper:
 
 > **Patch-Based Optimization for Noise-Robust Reconstruction of Specular Surfaces**  
 > *Saed Moradi, M. Hadi Sepanj, Amir Nazemi, Claire Preston, Anthony M. D. Lee, and Paul Fieguth*  
