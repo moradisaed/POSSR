@@ -6,7 +6,7 @@ This repository provides the implementation and data for the paper:
 > **Patch-Based Optimization for Noise-Robust Reconstruction of Specular Surfaces**  
 > *Saed Moradi, M. Hadi Sepanj, Amir Nazemi, Claire Preston, Anthony M. D. Lee, and Paul Fieguth*  
 >  2025  
-> [📄 PDF]() | [📊 Data](https://github.com/moradisaed/POSSR/blob/main/reconstruction/threePlaneData4X.mat)
+> [📄 PDF]() | [📊Sample Data](https://github.com/moradisaed/POSSR/blob/main/reconstruction/surface1.mat)
 
 ---
 
