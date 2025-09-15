@@ -27,7 +27,7 @@ The reconstruction proceeds **patch-wise** to maintain computational feasibility
 
 ![Surface geometry and reflection overview](https://github.com/moradisaed/POSSR/blob/main/ProblemFormulation.png)
 
-**Figure 1: Surface geometry and reflection overview.*
+**Figure 1: Surface geometry and reflection overview.**
 ---
 
 ## 📊 Results
