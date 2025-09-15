@@ -24,6 +24,7 @@ We formulate the inverse problem of specular surface reconstruction as a local o
 - Normals obtained via local plane fitting
 
 The reconstruction proceeds **patch-wise** to maintain computational feasibility and robustness.
+### Problem Description
 
 ![Surface geometry and reflection overview](https://github.com/moradisaed/POSSR/blob/main/ProblemFormulation.png)
 
