@@ -26,7 +26,7 @@ We formulate the inverse problem of specular surface reconstruction as a local o
 The reconstruction proceeds **patch-wise** to maintain computational feasibility and robustness.
 ### Problem Description
 
-![Surface geometry and reflection overview](https://github.com/moradisaed/POSSR/blob/main/ProblemFormulation.png)
+![Surface geometry and reflection overview](https://github.com/moradisaed/POSSR/blob/main/Assets/ProblemFormulation.png)
 
 ***Figure 1: Surface geometry and reflection overview.***
 ---
@@ -41,26 +41,26 @@ We conducted extensive experiments using synthetically generated data. The propo
 
 ### Qualitative Comparison
 
-![Qualitative reconstruction vs. baseline](https://github.com/moradisaed/POSSR/blob/main/recResults.png)
+![Qualitative reconstruction vs. baseline](https://github.com/moradisaed/POSSR/blob/main/Assets/recResults.png)
 
 **Figure 2: Qualitative comparison of surface reconstruction results for noise-free (ideal) reflection correspondences.**
 
 
 ### Quantitative Evaluation
 
-![Robustness to 2D noise](https://github.com/moradisaed/POSSR/blob/main/joint2D.png)
+![Robustness to 2D noise](https://github.com/moradisaed/POSSR/blob/main/Assets/joint2D.png)
 
 **Figure 3: Sensitivity of the reconstructed surface to the noise added to the points on the image plane.**
 
-![Robustness to 3D noise](https://github.com/moradisaed/POSSR/blob/main/joint3D.png)
+![Robustness to 3D noise](https://github.com/moradisaed/POSSR/blob/main/Assets/joint3D.png)
 
 **Figure 4: Sensitivity of the reconstructed surface to the noise added to the points on the pattern plane.**
 
-![Figure 5: Robustness to High noise](highSigmapatternPlane.png)
+![Figure 5: Robustness to High noise](./Assets/highSigmapatternPlane.png)
 
 **Figure 5: Surface reconstruction results of our method in extremely noisy scenarios.**
 
-![Figure 6: Robustness to starting point](startingPoint.png)
+![Figure 6: Robustness to starting point](./Assets/startingPoint.png)
 
 **Figure 6: Sensitivity of the reconstructed surface to an erroneous starting point.**
 
